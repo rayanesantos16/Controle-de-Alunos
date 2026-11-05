@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "matricula": "001",
+    "nome": "Alessandro Santos",
+    "turma": "2B",
+    "data": "2026-11-05",
+    "presente": true,
+    "motivoSaida": "BANHEIRO",
+    "minutosFora": 16,
+    "alertaTempo": true
+  },
+  {
+    "id": 2,
+    "matricula": "002",
+    "nome": "Rayane Santos",
+    "turma": "2B",
+    "data": "2026-11-05",
+    "presente": true,
+    "motivoSaida": "ENFERMARIA",
+    "minutosFora": 18,
+    "alertaTempo": true
+  },
+  {
+    "id": 3,
+    "matricula": "003",
+    "nome": "Michele Martinho",
+    "turma": "3B",
+    "data": "2026-11-05",
+    "presente": false,
+    "motivoSaida": "AUSENTE",
+    "minutosFora": 0,
+    "alertaTempo": false
+  },
+  {
+    "id": 4,
+    "matricula": "2026A04",
+    "nome": "Vinícius Boni",
+    "turma": "3B",
+    "data": "2026-11-05",
+    "presente": true,
+    "motivoSaida": "DIRETORIA",
+    "minutosFora": 5,
+    "alertaTempo": false
+  },
+  {
+    "id": 5,
+    "matricula": "2026A05",
+    "nome": "João Rogantti",
+    "turma": "1B",
+    "data": "2026-11-05",
+    "presente": true,
+    "motivoSaida": "BIBLIOTECA",
+    "minutosFora": 25,
+    "alertaTempo": true
+  },
+  {
+    "id": 6,
+    "matricula": "2026A02",
+    "nome": "RAYANE SANTOS",
+    "turma": "3A",
+    "data": "2026-11-05",
+    "presente": true,
+    "motivoSaida": "ENFERMARIA",
+    "minutosFora": 18,
+    "alertaTempo": true
+  }
+]
